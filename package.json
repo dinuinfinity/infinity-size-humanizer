@@ -1,0 +1,17 @@
+{
+  "name": "infinity-size-humanizer",
+  "version": "1.0.2",
+  "description": "Convert bytes → KB/MB/GB beautifully",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinuinfinity/infinity-size-humanizer.git"
+  },
+  "keywords": ["size", "humanizer", "bytes", "kb", "mb", "gb"],
+  "author": "Dinesh Babu",
+  "license": "ISC",
+  "type": "commonjs"
+}
